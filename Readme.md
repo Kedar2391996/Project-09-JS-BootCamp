@@ -14,4 +14,6 @@
 
 ![LCO](https://img.shields.io/badge/Web--Development-Kedar-orange)
 
+![Netlify]([![Netlify Status](https://api.netlify.com/api/v1/badges/ce8d0d31-9151-41cf-ab33-215393160fab/deploy-status)](https://app.netlify.com/sites/b2bbuyyer/deploys))
+
 ![HomePage](9.png)
