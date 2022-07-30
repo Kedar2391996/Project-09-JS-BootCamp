@@ -6,7 +6,7 @@
 ## Took around 5 hours to complete
 
 ### Live Link
-[Home](https://letsbuildbettertomorrow.netlify.app/)
+[Home](https://b2bbuyyer.netlify.app/)
 
 ![LCO](https://img.shields.io/badge/Ineuron-LCO-blue)
 
